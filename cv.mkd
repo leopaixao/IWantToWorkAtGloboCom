@@ -1,7 +1,7 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Esportes, Área de Jornalismo
 
 __Dicas:__
 * Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
@@ -9,7 +9,57 @@ __Dicas:__
 CV
 ==
 
-[Preencha aqui o seu cv]
+Leonardo Pereira Paixão
+
+Dados Pessoais
+
+Data Nascimento:......... 12/04/1986
+Endereço:..................... Rua Emidio Beruto nº 226/302 – Betânia - Belo Horizonte / MG Contato:........................ 31 33742017 / 31 87717919
+E-mail:.......................... leopereirapaixao@hotmail.com
+CNH:............................. Categoria B	
+
+Histórico Acadêmico  
+
+Sistemas de Informação
+Situação: Cursando 8º período
+Instituição: Faculdade Fabrai Anhanguera
+
+Tecnologia em Análise de Sistemas
+Situação: Concluído
+Instituição: Faculdade Fabrai Anhanguera
+
+Conhecimentos
+
+Linguagens de programação: C# 
+Banco de Dados: SQL Server
+Outros: Crystal Reports, Reporting Service, SSIS, HTML, CSS, JQuery, UML, Análise de Requisitos
+
+
+Experiência Corporativa
+
+Desenvolvedor Web
+Funções: Levantamento de requisitos e desenvolvimento de sistemas web utilizando C#. Elaboração de relatórios utilizando SqlServer e Crystal Reports. 
+Empresa: Case Of 
+
+Analista de Sistemas
+Funções: Administração de rede e servidores, implantação de software, administração de contratos, suporte ao RM e ao usuário.
+Empresa: Grupo Esquadra Forte
+
+Desenvolvedor Front-End (Estágio)
+Funções: Desenvolvimento de interfaces de sites utilizando HTML/CSS, Jquery.
+Empresa: 5Clicks
+
+Agente Censitário de Informática
+Funções: Instalação e configuração do banco de dados nos pdas, prestar suporte na instalação e manutenção da infra-estrutura necessária, transcrever e transmitir dados em microcomputador e computador de mão.
+Empresa: IBGE – Instituto Brasileiro de Geografia e Estatística.
+
+Técnico de Informática (Estágio)
+Funções: Instalação e configuração de aplicativos e equipamentos de informática, diagnóstico e solução de problemas, suporte técnico e orientação aos usuários sobre utilização de softwares e hardwares. Executar o controle dos fluxos de atividades.
+Empresa: Colégio Santo Agostinho (Unidade Nova Lima)
+
+ 
+
+http://www.linkedin.com/in/leoppaixao
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
